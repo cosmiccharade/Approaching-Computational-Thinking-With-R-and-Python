@@ -1,0 +1,5 @@
+This is the folder for 1st lecture taken on 07/01/2024
+Lecture : https://youtu.be/d6tDY-3_nqI?si=1ovCgNUxVsWeLVPZ only for the students.
+Installation Guide video: https://youtu.be/syijLJ3oQzU?si=4yZDWkKUWfYbxAj7
+For assignmenmt students must install the package: jupyterquiz
+Command for installation : pip install jupyterquiz
