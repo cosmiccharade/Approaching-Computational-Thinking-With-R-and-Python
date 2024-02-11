@@ -1,0 +1,5 @@
+This is the folder for 5th lecture taken on 10/02/2024
+Lecture : https://youtu.be/1mB2W-Q7ln0
+For assignmenmt students must install the package: jupyterquiz
+Command for installation : pip install jupyterquiz
+Geogebra applet for bisection: https://www.geogebra.org/classic/kq73wvaf
